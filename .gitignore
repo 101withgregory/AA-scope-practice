@@ -1,0 +1,6 @@
+#ignore node module folder
+node_modules/
+#ignore all json files
+*.json
+#ignore npm
+npm
